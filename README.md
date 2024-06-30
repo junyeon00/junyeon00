@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=BDBDC8&height=150&section=header" />
 ## Hello World, I'm Junyeon 👋
 
 <!--
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=BDBDC8&height=150&section=header" />
+
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=BDBDC8&height=150&section=footer" />
