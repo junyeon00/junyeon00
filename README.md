@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - Any interesting tech topic!
 
 ## 📫 How to Reach Me
+- **Velog**: ![Velog Badge](https://img.shields.io/badge/Velog-junyeon00-20c997?style=for-the-badge&logo=velog&link=https://velog.io/@junyeon00/posts)
+
 
 - **Email**: [jymam119@naver.com](mailto:jymam119@naver.com)
 
